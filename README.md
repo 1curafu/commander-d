@@ -15,7 +15,7 @@ directory as a prompt, reads a command, runs it and shows the result.
 | Oliver | Scrum Master, developer |
 | Noel O. | Developer |
 | Florian | Developer |
-| Lehrperson | Stakeholder |
+| Mario Sabbatella | Stakeholder |
 
 ## Tools
 
