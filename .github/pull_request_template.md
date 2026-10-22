@@ -24,4 +24,4 @@
 - [ ] File and console access only through `IFileSystemService` and `IConsoleService`
 - [ ] Paths use `Path.Combine`, no Windows-only features
 - [ ] No unrelated changes, no leftover debug code
-- [ ] Reviewer is set (Mykhailo, or Oliver for Mykhailo's own pull requests)
+- [ ] Reviewer is set (Mykhailo and Oliver)
