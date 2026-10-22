@@ -100,6 +100,5 @@ velocity (achieved SP divided by the total capacity).
 ## Working with Git
 
 Short version: one branch per Jira story (`feature/CD-<number>-<short-name>`),
-merged into `main` with a pull request. Mykhailo reviews every pull request, Oliver
-reviews the ones of Mykhailo. Nobody pushes to `main` directly. Details are in
+merged into `main` with a pull request. Mykhailo and Oliver reviews every pull request. Nobody pushes to `main` directly. Details are in
 [`docs/git-workflow.md`](docs/git-workflow.md).
