@@ -26,7 +26,7 @@ directory as a prompt, reads a command, runs it and shows the result.
 | IDE | JetBrains Rider |
 | Version control | Git, GitHub |
 | Backlog | Jira |
-| Target platform | **Windows** (the teacher tests on Windows) |
+| Target platform | **Windows** |
 
 Four of us develop on Windows, one on macOS. Keep the code platform-neutral so it
 builds on both:
