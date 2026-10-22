@@ -1,0 +1,44 @@
+# ---- .NET build output ----
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+publish/
+artifacts/
+
+# ---- Test results and coverage ----
+TestResults/
+[Tt]est[Rr]esult*/
+*.trx
+coverage/
+*.coverage
+*.coveragexml
+
+# ---- JetBrains Rider / IntelliJ ----
+.idea/
+*.sln.iml
+*.DotSettings.user
+
+# ---- Visual Studio (in case someone uses it) ----
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ---- NuGet ----
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+# ---- Logs and temp files ----
+*.log
+*.tmp
+*.bak
+*.swp
+
+# ---- OS files ----
+.DS_Store
+._*
+Thumbs.db
+desktop.ini

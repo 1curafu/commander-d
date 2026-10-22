@@ -1,0 +1,27 @@
+# Let Git normalise line endings so Windows (CRLF) and macOS (LF) do not
+# produce whole-file diffs. Nothing to configure on your machine.
+* text=auto
+
+# Source and text files
+*.cs        text diff=csharp
+*.csproj    text
+*.props     text
+*.targets   text
+*.json      text
+*.md        text
+*.svg       text
+*.editorconfig text
+.gitignore  text
+.gitattributes text
+
+# Visual Studio / Rider solution files expect CRLF
+*.sln       text eol=crlf
+
+# Binary files
+*.png       binary
+*.jpg       binary
+*.jpeg      binary
+*.gif       binary
+*.ico       binary
+*.pdf       binary
+*.zip       binary

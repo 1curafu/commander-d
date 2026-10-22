@@ -1,0 +1,233 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2560" height="1247" viewBox="0 0 2560 1247" font-family="Menlo, Consolas, 'DejaVu Sans Mono', 'Courier New', monospace" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTozMGQ1OGUxZS02OGE4LTQzZGEtODY0MC01MTFlNDZiNmY0ODAAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaERb7lzhdaD6YhSOpLpvEEwAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDowNDA4MGM3Ny0yMjJjLTQ2NGYtOTAxMC0zNTM0NDY3N2ZhZDFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoMGjCpxQKPRluqesEiFmYLwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggbJBFyUAYl19ZTU7oDw9BxuZQOCAU1Liu2bKzhX6VWQ+kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaATHx7sSzSTWcTo4KbyjHuQAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDW1pUamM3JzrEOjsOc73mvPXAfU+L2QaO5VhX6/P8xI2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjmZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjMwZDU4ZTFlLTY4YTgtNDNkYS04NjQwLTUxMWU0NmI2ZjQ4MC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjZmMzhlMWNkLTgwN2EtNDhiZi1iM2QxLWU0MjQyMzA5NWFhMHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBskEXJQBiXX1lNTugPD0HG5lA4IBTUuK7ZsrOFfpVZD6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggdGfBZxr68dP7opdBeoXmFlQrtFE1RHCxU5FikpPYHQWiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgggOC8diA6l8c24VvkgOvPZotXaxBzRjtUl2W4gsXiPrV0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQBfJeD0+Bb4LjdG8THGt3K1dsYHkCd0WYKn6Rt7NoqJ74a45VK1Ftr58snScDX//APAs8Xrbrsu8ahR66DUkaWo=</c2pa:manifest></metadata>
+<title>Commander D: class diagram (Command Pattern + Simple Factory)</title>
+<defs>
+  <marker id="open" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11" markerHeight="11"
+          markerUnits="userSpaceOnUse" orient="auto">
+    <path d="M1,1 L9,5 L1,9" fill="none" stroke="#222222" stroke-width="1.4"/>
+  </marker>
+  <marker id="tri" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="14" markerHeight="14"
+          markerUnits="userSpaceOnUse" orient="auto">
+    <path d="M1,1 L11,6 L1,11 Z" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+  </marker>
+</defs>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="510" y="40" width="260" height="167" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<text x="640.0" y="59" text-anchor="middle" font-size="13" font-weight="bold" fill="#222222">CommandShell</text>
+<line x1="510" y1="68" x2="770" y2="68" stroke="#222222" stroke-width="1.2"/>
+<line x1="510" y1="163" x2="770" y2="163" stroke="#222222" stroke-width="1.2"/>
+<text x="518" y="85" font-size="12" fill="#222222" xml:space="preserve">-bool _isRunning</text>
+<text x="518" y="102" font-size="12" fill="#222222" xml:space="preserve">-IFileSystemService _fileService</text>
+<text x="518" y="119" font-size="12" fill="#222222" xml:space="preserve">-IConsoleService _consoleService</text>
+<text x="518" y="136" font-size="12" fill="#222222" xml:space="preserve">-CommandParser _parser</text>
+<text x="518" y="153" font-size="12" fill="#222222" xml:space="preserve">-CommandFactory _factory</text>
+<text x="518" y="180" font-size="12" fill="#222222" xml:space="preserve">+Run() : void</text>
+<text x="518" y="197" font-size="12" fill="#222222" xml:space="preserve">+Stop() : void</text>
+<rect x="40" y="70" width="285" height="65" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<text x="182.5" y="89" text-anchor="middle" font-size="13" font-weight="bold" fill="#222222">CommandParser</text>
+<line x1="40" y1="98" x2="325" y2="98" stroke="#222222" stroke-width="1.2"/>
+<line x1="40" y1="108" x2="325" y2="108" stroke="#222222" stroke-width="1.2"/>
+<text x="48" y="125" font-size="12" fill="#222222" xml:space="preserve">+Parse(string input) : CommandContext</text>
+<rect x="40" y="245" width="190" height="99" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<text x="135.0" y="264" text-anchor="middle" font-size="13" font-weight="bold" fill="#222222">CommandContext</text>
+<line x1="40" y1="273" x2="230" y2="273" stroke="#222222" stroke-width="1.2"/>
+<line x1="40" y1="334" x2="230" y2="334" stroke="#222222" stroke-width="1.2"/>
+<text x="48" y="290" font-size="12" fill="#222222" xml:space="preserve">+string CommandName</text>
+<text x="48" y="307" font-size="12" fill="#222222" xml:space="preserve">+List&lt;string&gt; Arguments</text>
+<text x="48" y="324" font-size="12" fill="#222222" xml:space="preserve">+string RawInput</text>
+<rect x="490" y="267" width="300" height="99" rx="4" fill="#fff6d6" stroke="#222222" stroke-width="1.4"/>
+<text x="640.0" y="286" text-anchor="middle" font-size="13" font-weight="bold" fill="#222222">CommandFactory</text>
+<line x1="490" y1="295" x2="790" y2="295" stroke="#222222" stroke-width="1.2"/>
+<line x1="490" y1="339" x2="790" y2="339" stroke="#222222" stroke-width="1.2"/>
+<text x="498" y="312" font-size="12" fill="#222222" xml:space="preserve">-IFileSystemService _fileService</text>
+<text x="498" y="329" font-size="12" fill="#222222" xml:space="preserve">-IConsoleService _consoleService</text>
+<text x="498" y="356" font-size="12" fill="#222222" xml:space="preserve">+CreateCommand(string name) : ICommand</text>
+<rect x="520" y="426" width="240" height="132" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<text x="640.0" y="442" text-anchor="middle" font-size="11" fill="#555">&#171;interface&#187;</text>
+<text x="640.0" y="461" text-anchor="middle" font-size="13" font-weight="bold" fill="#222222">ICommand</text>
+<line x1="520" y1="470" x2="760" y2="470" stroke="#222222" stroke-width="1.2"/>
+<line x1="520" y1="514" x2="760" y2="514" stroke="#222222" stroke-width="1.2"/>
+<text x="528" y="487" font-size="12" fill="#222222" xml:space="preserve">+string Name</text>
+<text x="528" y="504" font-size="12" fill="#222222" xml:space="preserve">+string Description</text>
+<text x="528" y="531" font-size="12" fill="#222222" xml:space="preserve">+Execute(CommandContext</text>
+<text x="528" y="548" font-size="12" fill="#222222" xml:space="preserve">  context) : CommandResult</text>
+<rect x="40" y="466" width="170" height="99" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<text x="125.0" y="485" text-anchor="middle" font-size="13" font-weight="bold" fill="#222222">CommandResult</text>
+<line x1="40" y1="494" x2="210" y2="494" stroke="#222222" stroke-width="1.2"/>
+<line x1="40" y1="555" x2="210" y2="555" stroke="#222222" stroke-width="1.2"/>
+<text x="48" y="511" font-size="12" fill="#222222" xml:space="preserve">+bool Success</text>
+<text x="48" y="528" font-size="12" fill="#222222" xml:space="preserve">+string OutputMessage</text>
+<text x="48" y="545" font-size="12" fill="#222222" xml:space="preserve">+bool ShouldExit</text>
+<rect x="515" y="618" width="250" height="166" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<text x="640.0" y="634" text-anchor="middle" font-size="11" fill="#555">&#171;abstract&#187;</text>
+<text x="640.0" y="653" text-anchor="middle" font-size="13" font-weight="bold" font-style="italic" fill="#222222">AbstractCommand</text>
+<line x1="515" y1="662" x2="765" y2="662" stroke="#222222" stroke-width="1.2"/>
+<line x1="515" y1="740" x2="765" y2="740" stroke="#222222" stroke-width="1.2"/>
+<text x="523" y="679" font-size="12" fill="#222222" xml:space="preserve">+string Name</text>
+<text x="523" y="696" font-size="12" fill="#222222" xml:space="preserve">+string Description</text>
+<text x="523" y="713" font-size="12" fill="#222222" xml:space="preserve">#IFileSystemService FileService</text>
+<text x="523" y="730" font-size="12" fill="#222222" xml:space="preserve">#IConsoleService ConsoleService</text>
+<text x="523" y="757" font-size="12" font-style="italic" fill="#222222" xml:space="preserve">+Execute(CommandContext</text>
+<text x="523" y="774" font-size="12" font-style="italic" fill="#222222" xml:space="preserve">  context) : CommandResult</text>
+<rect x="2140" y="40" width="300" height="166" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<text x="2290.0" y="56" text-anchor="middle" font-size="11" fill="#555">&#171;interface&#187;</text>
+<text x="2290.0" y="75" text-anchor="middle" font-size="13" font-weight="bold" fill="#222222">IConsoleService</text>
+<line x1="2140" y1="84" x2="2440" y2="84" stroke="#222222" stroke-width="1.2"/>
+<line x1="2140" y1="94" x2="2440" y2="94" stroke="#222222" stroke-width="1.2"/>
+<text x="2148" y="111" font-size="12" fill="#222222" xml:space="preserve">+ReadLine() : string</text>
+<text x="2148" y="128" font-size="12" fill="#222222" xml:space="preserve">+WriteLine(string text) : void</text>
+<text x="2148" y="145" font-size="12" fill="#222222" xml:space="preserve">+Clear() : void</text>
+<text x="2148" y="162" font-size="12" fill="#222222" xml:space="preserve">+SetColor(ConsoleColor foreground,</text>
+<text x="2148" y="179" font-size="12" fill="#222222" xml:space="preserve">  ConsoleColor background) : void</text>
+<text x="2148" y="196" font-size="12" fill="#222222" xml:space="preserve">+GetOSVersion() : string</text>
+<rect x="2140" y="250" width="300" height="150" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<text x="2290.0" y="269" text-anchor="middle" font-size="13" font-weight="bold" fill="#222222">ConsoleService</text>
+<line x1="2140" y1="278" x2="2440" y2="278" stroke="#222222" stroke-width="1.2"/>
+<line x1="2140" y1="288" x2="2440" y2="288" stroke="#222222" stroke-width="1.2"/>
+<text x="2148" y="305" font-size="12" fill="#222222" xml:space="preserve">+ReadLine() : string</text>
+<text x="2148" y="322" font-size="12" fill="#222222" xml:space="preserve">+WriteLine(string text) : void</text>
+<text x="2148" y="339" font-size="12" fill="#222222" xml:space="preserve">+Clear() : void</text>
+<text x="2148" y="356" font-size="12" fill="#222222" xml:space="preserve">+SetColor(ConsoleColor foreground,</text>
+<text x="2148" y="373" font-size="12" fill="#222222" xml:space="preserve">  ConsoleColor background) : void</text>
+<text x="2148" y="390" font-size="12" fill="#222222" xml:space="preserve">+GetOSVersion() : string</text>
+<rect x="2140" y="450" width="300" height="251" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<text x="2290.0" y="466" text-anchor="middle" font-size="11" fill="#555">&#171;interface&#187;</text>
+<text x="2290.0" y="485" text-anchor="middle" font-size="13" font-weight="bold" fill="#222222">IFileSystemService</text>
+<line x1="2140" y1="494" x2="2440" y2="494" stroke="#222222" stroke-width="1.2"/>
+<line x1="2140" y1="521" x2="2440" y2="521" stroke="#222222" stroke-width="1.2"/>
+<text x="2148" y="511" font-size="12" fill="#222222" xml:space="preserve">+string CurrentDirectory</text>
+<text x="2148" y="538" font-size="12" fill="#222222" xml:space="preserve">+GetDirectoryContents(string path)</text>
+<text x="2148" y="555" font-size="12" fill="#222222" xml:space="preserve">  : DirectoryContentInfo</text>
+<text x="2148" y="572" font-size="12" fill="#222222" xml:space="preserve">+CreateDirectory(string path) : void</text>
+<text x="2148" y="589" font-size="12" fill="#222222" xml:space="preserve">+DeleteFile(string path) : void</text>
+<text x="2148" y="606" font-size="12" fill="#222222" xml:space="preserve">+ReadFileText(string path) : string</text>
+<text x="2148" y="623" font-size="12" fill="#222222" xml:space="preserve">+ChangeDirectory(string path) : void</text>
+<text x="2148" y="640" font-size="12" fill="#222222" xml:space="preserve">+MoveFileOrDirectory(string source,</text>
+<text x="2148" y="657" font-size="12" fill="#222222" xml:space="preserve">  string destination) : void</text>
+<text x="2148" y="674" font-size="12" fill="#222222" xml:space="preserve">+RenameFileOrDirectory(string source,</text>
+<text x="2148" y="691" font-size="12" fill="#222222" xml:space="preserve">  string newName) : void</text>
+<rect x="2140" y="750" width="300" height="235" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<text x="2290.0" y="769" text-anchor="middle" font-size="13" font-weight="bold" fill="#222222">FileSystemService</text>
+<line x1="2140" y1="778" x2="2440" y2="778" stroke="#222222" stroke-width="1.2"/>
+<line x1="2140" y1="805" x2="2440" y2="805" stroke="#222222" stroke-width="1.2"/>
+<text x="2148" y="795" font-size="12" fill="#222222" xml:space="preserve">+string CurrentDirectory</text>
+<text x="2148" y="822" font-size="12" fill="#222222" xml:space="preserve">+GetDirectoryContents(string path)</text>
+<text x="2148" y="839" font-size="12" fill="#222222" xml:space="preserve">  : DirectoryContentInfo</text>
+<text x="2148" y="856" font-size="12" fill="#222222" xml:space="preserve">+CreateDirectory(string path) : void</text>
+<text x="2148" y="873" font-size="12" fill="#222222" xml:space="preserve">+DeleteFile(string path) : void</text>
+<text x="2148" y="890" font-size="12" fill="#222222" xml:space="preserve">+ReadFileText(string path) : string</text>
+<text x="2148" y="907" font-size="12" fill="#222222" xml:space="preserve">+ChangeDirectory(string path) : void</text>
+<text x="2148" y="924" font-size="12" fill="#222222" xml:space="preserve">+MoveFileOrDirectory(string source,</text>
+<text x="2148" y="941" font-size="12" fill="#222222" xml:space="preserve">  string destination) : void</text>
+<text x="2148" y="958" font-size="12" fill="#222222" xml:space="preserve">+RenameFileOrDirectory(string source,</text>
+<text x="2148" y="975" font-size="12" fill="#222222" xml:space="preserve">  string newName) : void</text>
+<rect x="40" y="1075" width="200" height="82" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<text x="140.0" y="1094" text-anchor="middle" font-size="13" font-weight="bold" fill="#222222">VerCommand</text>
+<line x1="40" y1="1103" x2="240" y2="1103" stroke="#222222" stroke-width="1.2"/>
+<line x1="40" y1="1113" x2="240" y2="1113" stroke="#222222" stroke-width="1.2"/>
+<text x="48" y="1130" font-size="12" fill="#222222" xml:space="preserve">+Execute(CommandContext</text>
+<text x="48" y="1147" font-size="12" fill="#222222" xml:space="preserve">  context) : CommandResult</text>
+<rect x="246" y="1075" width="200" height="82" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<text x="346.0" y="1094" text-anchor="middle" font-size="13" font-weight="bold" fill="#222222">DelCommand</text>
+<line x1="246" y1="1103" x2="446" y2="1103" stroke="#222222" stroke-width="1.2"/>
+<line x1="246" y1="1113" x2="446" y2="1113" stroke="#222222" stroke-width="1.2"/>
+<text x="254" y="1130" font-size="12" fill="#222222" xml:space="preserve">+Execute(CommandContext</text>
+<text x="254" y="1147" font-size="12" fill="#222222" xml:space="preserve">  context) : CommandResult</text>
+<rect x="452" y="1075" width="200" height="82" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<text x="552.0" y="1094" text-anchor="middle" font-size="13" font-weight="bold" fill="#222222">DirCommand</text>
+<line x1="452" y1="1103" x2="652" y2="1103" stroke="#222222" stroke-width="1.2"/>
+<line x1="452" y1="1113" x2="652" y2="1113" stroke="#222222" stroke-width="1.2"/>
+<text x="460" y="1130" font-size="12" fill="#222222" xml:space="preserve">+Execute(CommandContext</text>
+<text x="460" y="1147" font-size="12" fill="#222222" xml:space="preserve">  context) : CommandResult</text>
+<rect x="658" y="1075" width="200" height="82" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<text x="758.0" y="1094" text-anchor="middle" font-size="13" font-weight="bold" fill="#222222">ClsCommand</text>
+<line x1="658" y1="1103" x2="858" y2="1103" stroke="#222222" stroke-width="1.2"/>
+<line x1="658" y1="1113" x2="858" y2="1113" stroke="#222222" stroke-width="1.2"/>
+<text x="666" y="1130" font-size="12" fill="#222222" xml:space="preserve">+Execute(CommandContext</text>
+<text x="666" y="1147" font-size="12" fill="#222222" xml:space="preserve">  context) : CommandResult</text>
+<rect x="864" y="1075" width="200" height="82" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<text x="964.0" y="1094" text-anchor="middle" font-size="13" font-weight="bold" fill="#222222">TypeCommand</text>
+<line x1="864" y1="1103" x2="1064" y2="1103" stroke="#222222" stroke-width="1.2"/>
+<line x1="864" y1="1113" x2="1064" y2="1113" stroke="#222222" stroke-width="1.2"/>
+<text x="872" y="1130" font-size="12" fill="#222222" xml:space="preserve">+Execute(CommandContext</text>
+<text x="872" y="1147" font-size="12" fill="#222222" xml:space="preserve">  context) : CommandResult</text>
+<rect x="1070" y="1075" width="200" height="82" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<text x="1170.0" y="1094" text-anchor="middle" font-size="13" font-weight="bold" fill="#222222">ExitCommand</text>
+<line x1="1070" y1="1103" x2="1270" y2="1103" stroke="#222222" stroke-width="1.2"/>
+<line x1="1070" y1="1113" x2="1270" y2="1113" stroke="#222222" stroke-width="1.2"/>
+<text x="1078" y="1130" font-size="12" fill="#222222" xml:space="preserve">+Execute(CommandContext</text>
+<text x="1078" y="1147" font-size="12" fill="#222222" xml:space="preserve">  context) : CommandResult</text>
+<rect x="1276" y="1075" width="200" height="82" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<text x="1376.0" y="1094" text-anchor="middle" font-size="13" font-weight="bold" fill="#222222">SetColorCommand</text>
+<line x1="1276" y1="1103" x2="1476" y2="1103" stroke="#222222" stroke-width="1.2"/>
+<line x1="1276" y1="1113" x2="1476" y2="1113" stroke="#222222" stroke-width="1.2"/>
+<text x="1284" y="1130" font-size="12" fill="#222222" xml:space="preserve">+Execute(CommandContext</text>
+<text x="1284" y="1147" font-size="12" fill="#222222" xml:space="preserve">  context) : CommandResult</text>
+<rect x="1482" y="1075" width="200" height="82" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<text x="1582.0" y="1094" text-anchor="middle" font-size="13" font-weight="bold" fill="#222222">RenCommand</text>
+<line x1="1482" y1="1103" x2="1682" y2="1103" stroke="#222222" stroke-width="1.2"/>
+<line x1="1482" y1="1113" x2="1682" y2="1113" stroke="#222222" stroke-width="1.2"/>
+<text x="1490" y="1130" font-size="12" fill="#222222" xml:space="preserve">+Execute(CommandContext</text>
+<text x="1490" y="1147" font-size="12" fill="#222222" xml:space="preserve">  context) : CommandResult</text>
+<rect x="1688" y="1075" width="200" height="82" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<text x="1788.0" y="1094" text-anchor="middle" font-size="13" font-weight="bold" fill="#222222">MkDirCommand</text>
+<line x1="1688" y1="1103" x2="1888" y2="1103" stroke="#222222" stroke-width="1.2"/>
+<line x1="1688" y1="1113" x2="1888" y2="1113" stroke="#222222" stroke-width="1.2"/>
+<text x="1696" y="1130" font-size="12" fill="#222222" xml:space="preserve">+Execute(CommandContext</text>
+<text x="1696" y="1147" font-size="12" fill="#222222" xml:space="preserve">  context) : CommandResult</text>
+<rect x="1894" y="1075" width="200" height="82" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<text x="1994.0" y="1094" text-anchor="middle" font-size="13" font-weight="bold" fill="#222222">MoveCommand</text>
+<line x1="1894" y1="1103" x2="2094" y2="1103" stroke="#222222" stroke-width="1.2"/>
+<line x1="1894" y1="1113" x2="2094" y2="1113" stroke="#222222" stroke-width="1.2"/>
+<text x="1902" y="1130" font-size="12" fill="#222222" xml:space="preserve">+Execute(CommandContext</text>
+<text x="1902" y="1147" font-size="12" fill="#222222" xml:space="preserve">  context) : CommandResult</text>
+<rect x="2100" y="1075" width="200" height="82" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<text x="2200.0" y="1094" text-anchor="middle" font-size="13" font-weight="bold" fill="#222222">MoreCommand</text>
+<line x1="2100" y1="1103" x2="2300" y2="1103" stroke="#222222" stroke-width="1.2"/>
+<line x1="2100" y1="1113" x2="2300" y2="1113" stroke="#222222" stroke-width="1.2"/>
+<text x="2108" y="1130" font-size="12" fill="#222222" xml:space="preserve">+Execute(CommandContext</text>
+<text x="2108" y="1147" font-size="12" fill="#222222" xml:space="preserve">  context) : CommandResult</text>
+<rect x="2306" y="1075" width="200" height="82" rx="4" fill="#ffffff" stroke="#222222" stroke-width="1.4"/>
+<text x="2406.0" y="1094" text-anchor="middle" font-size="13" font-weight="bold" fill="#222222">CdCommand</text>
+<line x1="2306" y1="1103" x2="2506" y2="1103" stroke="#222222" stroke-width="1.2"/>
+<line x1="2306" y1="1113" x2="2506" y2="1113" stroke="#222222" stroke-width="1.2"/>
+<text x="2314" y="1130" font-size="12" fill="#222222" xml:space="preserve">+Execute(CommandContext</text>
+<text x="2314" y="1147" font-size="12" fill="#222222" xml:space="preserve">  context) : CommandResult</text>
+<path d="M510,100 H325" fill="none" stroke="#222222" stroke-width="1.3" marker-end="url(#open)"/>
+<text x="417.5" y="92" font-size="11" fill="#666" text-anchor="middle">parses input</text>
+<path d="M640,207 V267" fill="none" stroke="#222222" stroke-width="1.3" marker-end="url(#open)"/>
+<text x="650" y="241.0" font-size="11" fill="#666" text-anchor="start">asks for command</text>
+<path d="M770,70 H2140" fill="none" stroke="#222222" stroke-width="1.3" marker-end="url(#open)"/>
+<text x="1100" y="62" font-size="11" fill="#666" text-anchor="middle">prompt and output</text>
+<path d="M770,130 H2040 V500 H2103 a7,7 0 0 1 14,0 H2140" fill="none" stroke="#222222" stroke-width="1.3" marker-end="url(#open)"/>
+<text x="1100" y="122" font-size="11" fill="#666" text-anchor="middle">current directory</text>
+<path d="M182.5,135 V245" fill="none" stroke="#222222" stroke-width="1.3" stroke-dasharray="6 4" marker-end="url(#open)"/>
+<text x="192.5" y="194.0" font-size="11" fill="#666" text-anchor="start">creates</text>
+<path d="M640,366 V426" fill="none" stroke="#222222" stroke-width="1.3" stroke-dasharray="6 4" marker-end="url(#open)"/>
+<text x="650" y="400.0" font-size="11" fill="#666" text-anchor="start">creates</text>
+<path d="M520,446 H120 V344" fill="none" stroke="#222222" stroke-width="1.3" stroke-dasharray="6 4" marker-end="url(#open)"/>
+<text x="330" y="438" font-size="11" fill="#666" text-anchor="middle">uses</text>
+<path d="M520,516 H210" fill="none" stroke="#222222" stroke-width="1.3" stroke-dasharray="6 4" marker-end="url(#open)"/>
+<text x="360" y="508" font-size="11" fill="#666" text-anchor="middle">returns</text>
+<path d="M640,618 V558" fill="none" stroke="#222222" stroke-width="1.3" stroke-dasharray="6 4" marker-end="url(#tri)"/>
+<path d="M765,698 H2080 V630 H2103 a7,7 0 0 1 14,0 H2140" fill="none" stroke="#222222" stroke-width="1.3" marker-end="url(#open)"/>
+<path d="M765,738 H2110 V150 H2140" fill="none" stroke="#222222" stroke-width="1.3" marker-end="url(#open)"/>
+<path d="M2290,250 V206" fill="none" stroke="#222222" stroke-width="1.3" stroke-dasharray="6 4" marker-end="url(#tri)"/>
+<path d="M2290,750 V701" fill="none" stroke="#222222" stroke-width="1.3" stroke-dasharray="6 4" marker-end="url(#tri)"/>
+<path d="M640,1025 V784" fill="none" stroke="#222222" stroke-width="1.3" marker-end="url(#tri)"/>
+<path d="M140.0,1025 H2406.0" fill="none" stroke="#222222" stroke-width="1.3"/>
+<path d="M140.0,1025 V1075" fill="none" stroke="#222222" stroke-width="1.3"/>
+<path d="M346.0,1025 V1075" fill="none" stroke="#222222" stroke-width="1.3"/>
+<path d="M552.0,1025 V1075" fill="none" stroke="#222222" stroke-width="1.3"/>
+<path d="M758.0,1025 V1075" fill="none" stroke="#222222" stroke-width="1.3"/>
+<path d="M964.0,1025 V1075" fill="none" stroke="#222222" stroke-width="1.3"/>
+<path d="M1170.0,1025 V1075" fill="none" stroke="#222222" stroke-width="1.3"/>
+<path d="M1376.0,1025 V1075" fill="none" stroke="#222222" stroke-width="1.3"/>
+<path d="M1582.0,1025 V1075" fill="none" stroke="#222222" stroke-width="1.3"/>
+<path d="M1788.0,1025 V1075" fill="none" stroke="#222222" stroke-width="1.3"/>
+<path d="M1994.0,1025 V1075" fill="none" stroke="#222222" stroke-width="1.3"/>
+<path d="M2200.0,1025 V1075" fill="none" stroke="#222222" stroke-width="1.3"/>
+<path d="M2406.0,1025 V1075" fill="none" stroke="#222222" stroke-width="1.3"/>
+<rect x="40" y="1184" width="16" height="16" rx="2" fill="#fff6d6" stroke="#222222" stroke-width="1.2"/>
+<text x="64" y="1197" font-size="12" fill="#222222">Simple Factory: CommandFactory creates the matching ICommand by name</text>
+<text x="64" y="1219" font-size="12" fill="#222222">Command Pattern: ICommand, AbstractCommand and one class per command. CommandShell is the invoker, the services are the receivers.</text>
+</svg>
